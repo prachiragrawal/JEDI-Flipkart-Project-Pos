@@ -1,5 +1,5 @@
 package com.flipkart.exception;
 
-public class BookingException {
-
+public class BookingException extends Exception {
+    // Implementation for a custom booking exception
 }
