@@ -1,5 +1,5 @@
 package com.flipkart.business;
 
-public class UserService {
+public class CustomerService {
 
 }
