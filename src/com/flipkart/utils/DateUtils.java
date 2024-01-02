@@ -1,5 +1,7 @@
 package com.flipkart.utils;
 
-public class DateUtils {
+import java.util.Date;
 
+public class DateUtils {
+    // Utility methods for working with dates
 }
